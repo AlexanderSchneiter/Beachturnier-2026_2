@@ -1,0 +1,443 @@
+{
+ "club": "STV Uerkheim",
+ "title": "Beachvolleyball-Turnier",
+ "date": "",
+ "pwSalt": "b788c2fc85b7",
+ "pwHash": "4bOyA19o2GfZkmxrpKkWMg",
+ "gh": {
+  "on": true,
+  "owner": "alexanderschneiter",
+  "repo": "Beachturnier-2026_2",
+  "branch": "main",
+  "path": "data.json"
+ },
+ "start": 510,
+ "dGroup": 9,
+ "pGroup": 3,
+ "lunch": 7,
+ "pauseAfter": "none",
+ "dQuarter": 15,
+ "dSemi": 30,
+ "dFinal": 45,
+ "pFinal": 5,
+ "qf": false,
+ "hf": true,
+ "kf": true,
+ "prepSlots": 1,
+ "courts": 1,
+ "mode": "block",
+ "win": 2,
+ "draw": 1,
+ "loss": 0,
+ "sizes": [
+  6,
+  7
+ ],
+ "names": [
+  [
+   "Möuer-Buebe",
+   "2 Mädel, zwei Modelle",
+   "Tätsch Bäng Meräng",
+   "S`Hubers",
+   "InTeam",
+   "Kappibara"
+  ],
+  [
+   "Rogle",
+   "5 Promille",
+   "TV Holziken",
+   "6 Mass Bier",
+   "Decki Ölers",
+   "Holziker Marathoner",
+   "S’Erbe und Frönde"
+  ]
+ ],
+ "res": [
+  [
+   [
+    21,
+    21
+   ],
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "refs": [
+  {
+   "id": "p1",
+   "n": "Lex",
+   "r": "s",
+   "f": 480,
+   "t": 825,
+   "tm": "0-4"
+  },
+  {
+   "id": "p2",
+   "n": "Chappe",
+   "r": "s",
+   "f": 480,
+   "t": 825,
+   "tm": "0-5"
+  },
+  {
+   "id": "p3",
+   "n": "Mike",
+   "r": "s",
+   "f": 480,
+   "t": 825,
+   "tm": ""
+  },
+  {
+   "id": "p4",
+   "n": "Améli",
+   "r": "t",
+   "f": 480,
+   "t": 825,
+   "tm": ""
+  },
+  {
+   "id": "p5",
+   "n": "Jessica",
+   "r": "t",
+   "f": 480,
+   "t": 825,
+   "tm": ""
+  },
+  {
+   "id": "p6",
+   "n": "Ronja",
+   "r": "t",
+   "f": 480,
+   "t": 825,
+   "tm": ""
+  },
+  {
+   "id": "p7",
+   "n": "ManGo",
+   "r": "s",
+   "f": 810,
+   "t": 1122,
+   "tm": "0-2"
+  },
+  {
+   "id": "p8",
+   "n": "Silas",
+   "r": "s",
+   "f": 810,
+   "t": 1122,
+   "tm": "0-3"
+  },
+  {
+   "id": "p9",
+   "n": "Domi",
+   "r": "s",
+   "f": 810,
+   "t": 1122,
+   "tm": "0-3"
+  },
+  {
+   "id": "p10",
+   "n": "Joanna",
+   "r": "t",
+   "f": 810,
+   "t": 1122,
+   "tm": ""
+  },
+  {
+   "id": "p11",
+   "n": "Joelle",
+   "r": "t",
+   "f": 810,
+   "t": 1122,
+   "tm": ""
+  },
+  {
+   "id": "p12",
+   "n": "Lina",
+   "r": "t",
+   "f": 810,
+   "t": 1122,
+   "tm": ""
+  }
+ ],
+ "duty": {
+  "g0-0": [
+   "p3",
+   "p4",
+   "p5"
+  ],
+  "g0-1": [
+   "p2",
+   "p6",
+   "p4"
+  ],
+  "g0-2": [
+   "p3",
+   "p5",
+   "p6"
+  ],
+  "g0-3": [
+   "p3",
+   "p4",
+   "p5"
+  ],
+  "g0-4": [
+   "p1",
+   "p6",
+   "p4"
+  ],
+  "g0-5": [
+   "p2",
+   "p5",
+   "p6"
+  ],
+  "g0-6": [
+   "p2",
+   "p4",
+   "p5"
+  ],
+  "g0-7": [
+   "p3",
+   "p6",
+   "p4"
+  ],
+  "g0-8": [
+   "p1",
+   "p5",
+   "p6"
+  ],
+  "g0-9": [
+   "p1",
+   "p4",
+   "p5"
+  ],
+  "g0-10": [
+   "p3",
+   "p6",
+   "p4"
+  ],
+  "g0-11": [
+   "p3",
+   "p5",
+   "p6"
+  ],
+  "g0-12": [
+   "p1",
+   "p4",
+   "p5"
+  ],
+  "g0-13": [
+   "p3",
+   "p6",
+   "p4"
+  ],
+  "g0-14": [
+   "p2",
+   "p5",
+   "p6"
+  ],
+  "g1-0": [
+   "p1",
+   "p4",
+   "p5"
+  ],
+  "g1-1": [
+   "p2",
+   "p6",
+   "p4"
+  ],
+  "g1-2": [
+   "p1",
+   "p5",
+   "p6"
+  ],
+  "g1-3": [
+   "p2",
+   "p4",
+   "p5"
+  ],
+  "g1-4": [
+   "p1",
+   "p6",
+   "p4"
+  ],
+  "g1-5": [
+   "p2",
+   "p5",
+   "p6"
+  ],
+  "g1-6": [
+   "p3",
+   "p4",
+   "p5"
+  ],
+  "g1-7": [
+   "p1",
+   "p6",
+   "p4"
+  ],
+  "g1-8": [
+   "p2",
+   "p5",
+   "p6"
+  ],
+  "g1-9": [
+   "p3",
+   "p4",
+   "p5"
+  ],
+  "g1-10": [
+   "p7",
+   "p10",
+   "p11"
+  ],
+  "g1-11": [
+   "p8",
+   "p12",
+   "p10"
+  ],
+  "g1-12": [
+   "p9",
+   "p11",
+   "p12"
+  ],
+  "g1-13": [
+   "p7",
+   "p10",
+   "p11"
+  ],
+  "g1-14": [
+   "p8",
+   "p12",
+   "p10"
+  ],
+  "g1-15": [
+   "p9",
+   "p11",
+   "p12"
+  ],
+  "g1-16": [
+   "p7",
+   "p10",
+   "p11"
+  ],
+  "g1-17": [
+   "p8",
+   "p12",
+   "p10"
+  ],
+  "g1-18": [
+   "p9",
+   "p11",
+   "p12"
+  ],
+  "g1-19": [
+   "p7",
+   "p10",
+   "p11"
+  ],
+  "g1-20": [
+   "p8",
+   "p12",
+   "p10"
+  ],
+  "f4": [
+   "p9",
+   "p11",
+   "p12"
+  ],
+  "f5": [
+   "p7",
+   "p10",
+   "p11"
+  ],
+  "f6": [
+   "p8",
+   "p12",
+   "p10"
+  ],
+  "f7": [
+   "p9",
+   "p11",
+   "p12"
+  ]
+ },
+ "rF": [
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ],
+  [
+   null,
+   null,
+   null
+  ]
+ ],
+ "ts": 1785519106462
+}
